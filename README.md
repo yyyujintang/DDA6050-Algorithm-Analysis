@@ -1,6 +1,6 @@
 # DDA6050-Algorithm-Analysis
 
-# A2_Report_221041014
+# Homework2_Report
 
 ## (1) The Longest Common Sequence Problem (15 points)
 
